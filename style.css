@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0, 123, 255);
+  text-align: center;
+}
+
+h1 {
+  margin-top: 2%;
+  margin-bottom: auto;
+  text-decoration: underline;
+}
+
+.datadiri {
+  margin-top: auto;
+  margin-bottom: 5mm;
+  text-align: left;
+  width: 50mm;
+  height: auto;
+  margin-left: 22.5%;
+  background-color: rgb(0, 255, 153);
+}
+
+.inti {
+  width: 5mm;
+  height: auto;
+}
+
+p {
+  margin-right: 18%;
+}
+
+.harga {
+  width: 23mm;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  margin-bottom: 10%;
+  background-color: rgb(214, 243, 0);
+  width: 220mm;
+  height: auto;
+  border-color: black;
+}
+
+.judul {
+  background-color: rgb(255, 0, 221);
+  height: 10mm;
+  color: black;
+}
+
+.text {
+  text-align: left;
+  width: 400px;
+  height: auto;
+}
+
+img {
+  width: 140px;
+  height: auto;
+}
+
+.img {
+  width: 27mm;
+  height: auto;
+}
+
+.image {
+  width: 23mm;
+  height: auto;
+}
